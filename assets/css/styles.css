@@ -323,7 +323,7 @@ img{
     background-color: var(--first-color);
     color: #FFF;
     padding: 1rem;
-    border: 0;
+    border: 0; 
     border-radius: .5rem;
     font-weight: var(--font-medium);
 }
